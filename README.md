@@ -22,7 +22,6 @@
 ![013](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/cd7724cb-39c2-4ca5-93a4-4e76e213df58)
 ![014](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/583c6786-f801-4734-82a3-6c58a76b8b32)
 ![015](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/602f307d-0734-4e8f-bb07-010bb02cc1d0)
-![016](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/cdf987ba-27af-4b75-a48c-6a122e3a8c49)
 ![017](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/c0a0cf7a-c044-47e9-acb2-48b78c51c763)
 ![018](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/25d4fdd6-6d11-4fe0-a6fe-74a6e8ed572b)
 ![019](https://github.com/hoon-bari/-DACON-Private-19th-/assets/121400054/f52aede3-52be-4ec1-b4a0-d8ef44fc13e4)
