@@ -39,4 +39,5 @@
 ![030](https://github.com/hoon-bari/DACON_HansolWallPaper/assets/121400054/7af0b04b-45ec-4a5d-8c1a-f0f4ab9adbb7)
 ![031](https://github.com/hoon-bari/DACON_HansolWallPaper/assets/121400054/41155cbb-67fb-4682-bae6-f2be08f9407b)
 ![032](https://github.com/hoon-bari/DACON_HansolWallPaper/assets/121400054/b2cad34e-415d-49a9-ade9-6d07b34cd98d)
-![033](https://github.com/hoon-bari/DACON_HansolWallPaper/assets/121400054/e752514b-868a-49ed-adc6-c42668dda1e5)
+![도배 하자 유형 분류 AI 경진대회-033](https://github.com/hoon-bari/DACON_HansolWallPaper/assets/121400054/6c29b3e8-86ca-4e37-a96a-ef65671cd6e1)
+
