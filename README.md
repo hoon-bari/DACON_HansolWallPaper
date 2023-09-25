@@ -1,4 +1,4 @@
-### [DACON,Private 19th] 도배 하자유형 분류 AI경진대회   
+### [DACON,Private 19th] 도배 하자유형 분류 AI경진대회    
 한솔데코 주최 및 데이콘에서 주관한 도배 하자유형 분류 경진대회 코드입니다.    
 코드 및 PPT는 위 notebook, presentation folder에서 확인 가능하며, 데이콘 홈페이지에도 올렸습니다. [코드 링크](https://dacon.io/competitions/official/236082/codeshare/8754?page=1&dtype=recent)   
    
